@@ -1,0 +1,10 @@
+.footer {
+    background-color: #343a40;
+    width: 100%;
+    color: white;
+    padding: 3vh;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
